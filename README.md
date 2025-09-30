@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/vamshinr)
 
 ## 🎯 Research Interests
-**AI for Software Engineering** | **LLMs for Code** | **Binary Analysis** | **Software Reliability**
+**AI for Software Engineering** | **LLMs for Code** | **Benchmarking** | **Software Reliability**
 
 I'm passionate about leveraging AI to make software more reliable, secure, and performant. Currently working at Intel on performance optimization and AI workload acceleration, while pursuing research opportunities in software-AI synergy.
 
