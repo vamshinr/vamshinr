@@ -11,6 +11,13 @@ I'm passionate about leveraging AI to make software more reliable, secure, and p
 
 ## 🔬 Featured Research Projects
 
+### 🔐 [VaultASR - High-Performance Local Speech Intelligence](https://github.com/vamshinr/VaultASR)
+Local, private speech-to-text pipeline with advanced diarization and hardware acceleration.
+- **Key Features:** Multi-speaker diarization, Silero VAD v5 integration, CoreML/Metal GPU acceleration, multi-format exports (XLSX, JSON, Docx).
+- **Tech Stack:** C++, whisper.cpp, ONNX Runtime, Metal/CoreML, FFmpeg, libxlsxwriter.
+- **Impact:** Enables high-speed, 100% offline transcription of hours of audio in minutes, maintaining total data privacy on Apple Silicon.
+You can use this exactly as written in a portfolio or a "Featured Projects" section!
+
 ### 🤖 [PEARL - Proactive Execution and Adaptive Reasoning Loop](https://github.com/vamshinr/pearl-agent-framework)
 Autonomous AI agent with cognitive architecture for reliable code generation
 - **Key Features:** Dynamic task decomposition, Constrained decoding, Experience-based learning
